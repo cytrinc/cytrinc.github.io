@@ -5,12 +5,12 @@ html {
 body {
     padding: 5px;
     background-color: #8232bf;
-    background-image: linear-gradient(to bottom right, #9347cc, #3c1f52);
+    background-image: linear-gradient(to bottom right, #5a148f, #3c0765);
     background-repeat: no-repeat;
 }
 
 .big {
-    font-family: Impact, sans-serif;
+    font-family: Impact;
     color: white;
 }
 
@@ -23,5 +23,5 @@ button {
 }
 
 button:hover {
-    text-shadow: 0 0 3px #030018;
+    background-color: #068692;
 }
