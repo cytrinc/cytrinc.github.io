@@ -1,10 +1,11 @@
 body {
     padding: 5px;
     background-color: #8232bf;
-    background-image: linear-gradient(to bottom right, #3c1f52, #9347cc);
+    background-image: linear-gradient(to bottom right, #9347cc, #3c1f52);
+    background-repeat: no-repeat;
 }
 
 .big {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, sans-serif;
     color: white;
 }
