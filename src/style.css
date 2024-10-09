@@ -10,15 +10,18 @@ body {
 }
 
 .big {
-    font-family: Impact, Haettenschweiler, sans-serif;
+    font-family: Impact, sans-serif;
     color: white;
 }
 
 button {
     background-color: #fff;
-    border-color: #068692;
     padding: 10px 10px;
-    color: darkslategrey;
+    color: #068692;
     border-radius: 10px;
     border: none;
+}
+
+button:hover {
+    text-shadow: 0 0 3px #030018;
 }
