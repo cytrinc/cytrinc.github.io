@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 body {
     padding: 5px;
     background-color: #8232bf;
@@ -8,4 +12,14 @@ body {
 .big {
     font-family: Impact, Haettenschweiler, sans-serif;
     color: white;
+}
+
+button {
+    background: 
+        linear-gradient(#fff, #fff) padding-box,
+        linear-gradient(60deg, rgb(0, 0, 57), #068692) border-box;
+    padding: 10px 10px;
+    color: white;
+    border-radius: 10px;
+    border: none;
 }
