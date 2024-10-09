@@ -1,0 +1,10 @@
+body {
+    padding: 5px;
+    background-color: #8232bf;
+    background-image: linear-gradient(to bottom right, #3c1f52, #9347cc);
+}
+
+.big {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
