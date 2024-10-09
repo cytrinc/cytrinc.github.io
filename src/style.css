@@ -17,9 +17,10 @@ body {
 button {
     background-color: #fff;
     padding: 10px 10px;
-    color: #068692;
+    color: #004c53;
     border-radius: 10px;
     border: none;
+    font-weight: bold;
 }
 
 button:hover {
