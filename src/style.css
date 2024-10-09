@@ -15,10 +15,10 @@ body {
 }
 
 button {
-    background-image: linear-gradient(#fff, #fff) padding-box;
-    border-color: linear-gradient(60deg, rgb(0, 0, 57), #068692) border-box;
+    background-color: #fff;
+    border-color: #068692;
     padding: 10px 10px;
-    color: white;
+    color: darkslategrey;
     border-radius: 10px;
     border: none;
 }
