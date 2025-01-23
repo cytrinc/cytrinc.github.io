@@ -5,13 +5,17 @@ html {
 body {
     padding: 5px;
     background-color: #8232bf;
-    background-image: linear-gradient(to bottom right, #6818a4, #3c0765);
+    background-image: linear-gradient(to bottom right, #6f1baf, #3c0765);
     background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: white;
 }
 
 .big {
-    font-family: Impact;
-    font-weight: lighter;
+    font-size: 70pt;
     color: white;
 }
 
