@@ -15,8 +15,12 @@ p {
 }
 
 .big {
-    font-size: 70pt;
+    font-size: 30pt;
     color: white;
+}
+
+.profile {
+    border-radius: 999px;
 }
 
 button {
