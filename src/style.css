@@ -5,12 +5,13 @@ html {
 body {
     padding: 5px;
     background-color: #8232bf;
-    background-image: linear-gradient(to bottom right, #5a148f, #3c0765);
+    background-image: linear-gradient(to bottom right, #6818a4, #3c0765);
     background-repeat: no-repeat;
 }
 
 .big {
     font-family: Impact;
+    font-weight: lighter;
     color: white;
 }
 
