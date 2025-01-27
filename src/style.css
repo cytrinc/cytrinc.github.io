@@ -8,15 +8,11 @@ body {
     background-image: linear-gradient(to bottom right, #6f1baf, #3c0765);
     background-repeat: no-repeat;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-p {
     color: white;
 }
 
 .big {
     font-size: 30pt;
-    color: white;
 }
 
 .profile {
