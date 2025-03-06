@@ -31,3 +31,11 @@ button {
 button:hover {
     background-color: #068692;
 }
+
+a {
+    color: lightblue;
+}
+
+a:hover {
+    color: lime;
+}
